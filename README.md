@@ -1,3 +1,4 @@
 # practice-demo
-this is my first git repository
-Author Aishwarya 
+this is my first git repository.
+<br>
+Author- Aishwarya 
